@@ -95,7 +95,7 @@ async function cmdOdul(message, args) {
 
     const banner = new ContainerBuilder().setAccentColor(0xFFD700)
       .addTextDisplayComponents(new TextDisplayBuilder().setContent(
-        `# 🏆 VOLDERLEAGUE ÖDÜL TÖRENİ\n\n` +
+        `# 🏆 ATLASLEAGUE ÖDÜL TÖRENİ\n\n` +
         `> Bu gece şampiyonlar ödüllerini alıyor!\n` +
         `> **${data.awards.length}** ödül saplerini bulacak...\n\n` +
         `> ⏳ Tören başlamak üzere...`
