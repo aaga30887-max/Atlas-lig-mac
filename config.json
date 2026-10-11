@@ -1,0 +1,13 @@
+{
+  "token": "BOT_TOKENINI_BURAYA_YAPISTIR",
+  "prefix": "!",
+  "specialGkId": "1520176727911956650",
+  "specialGkBonus": 0.14,
+  "specialGkPenBonus": 0.18,
+  "matchDuration": {
+    "realSecondsPerHalf": 600,
+    "gameMinutesPerHalf": 45
+  },
+  "cv2Flag": 32768,
+  "maxMatchHistory": 50
+}

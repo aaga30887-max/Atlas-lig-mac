@@ -1,0 +1,17 @@
+{
+  "name": "volder-mac-bot",
+  "version": "3.0.0",
+  "description": "Volder Mac Bot - Discord futbol mac botu (maç motoru, lig, kupa, oduller)",
+  "main": "mac.js",
+  "scripts": {
+    "start": "node mac.js",
+    "check": "node --check mac.js"
+  },
+  "keywords": ["discord", "bot", "football", "mac"],
+  "license": "MIT",
+  "dependencies": {
+    "@napi-rs/canvas": "^1.0.8",
+    "discord.js": "^14.27.0",
+    "puppeteer": "^25.10.0"
+  }
+}
